@@ -175,7 +175,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Abhay Tiwari**
 - GitHub: [@Abhaytiwari303](https://github.com/Abhaytiwari303)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [your-email@example.com](abhay3032003gmail@example.com)
 
 ## 🙏 Acknowledgments
 
